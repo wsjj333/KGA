@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jeon\\documents\\kga\\base532\\intermediate\\build\\win64\\unrealeditor\\inc\\base532\\uht\\base532.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jeon\\documents\\kga\\base532\\intermediate\\build\\win64\\x64\\base532editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jeon\\documents\\kga\\base532\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\base532\\definitions.base532.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
