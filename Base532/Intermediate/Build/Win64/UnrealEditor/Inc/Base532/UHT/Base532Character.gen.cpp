@@ -56,6 +56,10 @@ void EmptyLinkFunctionForGeneratedCodeBase532Character() {}
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_LookAction_MetaData[];
 #endif
 		static const UECodeGen_Private::FObjectPropertyParams NewProp_LookAction;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_RunAction_MetaData[];
+#endif
+		static const UECodeGen_Private::FObjectPropertyParams NewProp_RunAction;
 		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UECodeGen_Private::FClassParams ClassParams;
@@ -158,6 +162,20 @@ void EmptyLinkFunctionForGeneratedCodeBase532Character() {}
 	};
 #endif
 	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABase532Character_Statics::NewProp_LookAction = { "LookAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ABase532Character, LookAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ABase532Character_Statics::NewProp_LookAction_MetaData), Z_Construct_UClass_ABase532Character_Statics::NewProp_LookAction_MetaData) };
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ABase532Character_Statics::NewProp_RunAction_MetaData[] = {
+		{ "AllowPrivateAccess", "true" },
+		{ "Category", "Input" },
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "/** Run Input Action */" },
+#endif
+		{ "ModuleRelativePath", "Base532Character.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "Run Input Action" },
+#endif
+	};
+#endif
+	const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ABase532Character_Statics::NewProp_RunAction = { "RunAction", nullptr, (EPropertyFlags)0x0040000000000015, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ABase532Character, RunAction), Z_Construct_UClass_UInputAction_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ABase532Character_Statics::NewProp_RunAction_MetaData), Z_Construct_UClass_ABase532Character_Statics::NewProp_RunAction_MetaData) };
 	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ABase532Character_Statics::PropPointers[] = {
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABase532Character_Statics::NewProp_CameraBoom,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABase532Character_Statics::NewProp_FollowCamera,
@@ -165,6 +183,7 @@ void EmptyLinkFunctionForGeneratedCodeBase532Character() {}
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABase532Character_Statics::NewProp_JumpAction,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABase532Character_Statics::NewProp_MoveAction,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABase532Character_Statics::NewProp_LookAction,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ABase532Character_Statics::NewProp_RunAction,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ABase532Character_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ABase532Character>::IsAbstract,
@@ -204,9 +223,9 @@ void EmptyLinkFunctionForGeneratedCodeBase532Character() {}
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
 	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Jeon_Documents_KGA_Base532_Source_Base532_Base532Character_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_ABase532Character, ABase532Character::StaticClass, TEXT("ABase532Character"), &Z_Registration_Info_UClass_ABase532Character, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABase532Character), 2069051923U) },
+		{ Z_Construct_UClass_ABase532Character, ABase532Character::StaticClass, TEXT("ABase532Character"), &Z_Registration_Info_UClass_ABase532Character, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABase532Character), 527132993U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Jeon_Documents_KGA_Base532_Source_Base532_Base532Character_h_1691180215(TEXT("/Script/Base532"),
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Jeon_Documents_KGA_Base532_Source_Base532_Base532Character_h_3886525620(TEXT("/Script/Base532"),
 		Z_CompiledInDeferFile_FID_Users_Jeon_Documents_KGA_Base532_Source_Base532_Base532Character_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Jeon_Documents_KGA_Base532_Source_Base532_Base532Character_h_Statics::ClassInfo),
 		nullptr, 0,
 		nullptr, 0);
