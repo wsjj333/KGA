@@ -15,5 +15,11 @@ class RSP250813_API AMyGameMode : public AGameMode
 	GENERATED_BODY()
 	
 	UFUNCTION(BlueprintCallable)
-	int RPSResult(int PlayerIndex, int GPTIndex);
+	int RPSResult(int32 PlayerIndex, int32 GPTIndex);
+
+	UFUNCTION(BlueprintCallable)
+	void RPSHPResult(int32 result, UPARAM(ref) int32& PlayerHp, UPARAM(ref) int32& GPTHp);
+
+	UFUNCTION(BlueprintCallable)
+	int RPSisEnd(int32 PlayerHp, int32 GPTHp);
 };
