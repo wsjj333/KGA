@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jeon\\documents\\kga\\rsp250813\\source\\rsp250813\\rsp250813.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jeon\\documents\\kga\\rsp250813\\intermediate\\build\\win64\\x64\\rsp250813editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jeon\\documents\\kga\\rsp250813\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rsp250813\\definitions.rsp250813.h",
+            "c:\\users\\jeon\\documents\\kga\\rsp250813\\source\\rsp250813\\rsp250813.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
