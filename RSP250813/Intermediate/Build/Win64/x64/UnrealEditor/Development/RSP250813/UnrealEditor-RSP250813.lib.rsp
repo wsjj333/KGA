@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\RSP250813Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSP250813\MyGameMode.gen.cpp.obj"
+"C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSP250813\RSP250813.init.gen.cpp.obj"
 "C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSP250813\RSP250813.cpp.obj"
+"C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSP250813\MyGameMode.cpp.obj"
 "C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSP250813\Default.rc2.res"
 /OUT:"C:\Users\Jeon\Documents\KGA\RSP250813\Intermediate\Build\Win64\x64\UnrealEditor\Development\RSP250813\UnrealEditor-RSP250813.lib"
