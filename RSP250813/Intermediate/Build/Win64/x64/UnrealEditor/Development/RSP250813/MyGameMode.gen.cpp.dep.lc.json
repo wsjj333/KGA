@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jeon\\documents\\kga\\rsp250813\\intermediate\\build\\win64\\unrealeditor\\inc\\rsp250813\\uht\\mygamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jeon\\documents\\kga\\rsp250813\\intermediate\\build\\win64\\x64\\rsp250813editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jeon\\documents\\kga\\rsp250813\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\rsp250813\\definitions.rsp250813.h",
+            "c:\\users\\jeon\\documents\\kga\\rsp250813\\source\\rsp250813\\mygamemode.h",
+            "c:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "c:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "c:\\users\\jeon\\documents\\kga\\rsp250813\\intermediate\\build\\win64\\unrealeditor\\inc\\rsp250813\\uht\\mygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
