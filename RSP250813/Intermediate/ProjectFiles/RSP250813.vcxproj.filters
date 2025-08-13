@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RSP250813.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RSP250813.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RSP250813Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RSP250813">
+      <UniqueIdentifier>{D537A2F5-476B-348E-B227-FB91C70231FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RSP250813\RSP250813.Build.cs">
+      <Filter>Source\RSP250813</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RSP250813\RSP250813.cpp">
+      <Filter>Source\RSP250813</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RSP250813\RSP250813.h">
+      <Filter>Source\RSP250813</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
