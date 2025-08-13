@@ -5,5 +5,7 @@
 
 int AMyGameMode::RPSResult(int PlayerIndex, int GPTIndex)
 {
-	return 0;
+	int result = 0;
+	result = (PlayerIndex - GPTIndex + 3) %3 ;
+	return result;
 }
