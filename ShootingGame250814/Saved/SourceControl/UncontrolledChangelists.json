@@ -6,13 +6,35 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Level/ShootingGameMap.umap",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/starfield-tileable-twitter-bg-overlay3-step2_Mat.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Texture/earth.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Texture/starfield-tileable-twitter-bg-overlay3-step2.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Material/earth_Mat.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/earth_Mat.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Material/starfield-tileable-twitter-bg-overlay3-step2_Mat.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Material/starfield-tileable-twitter-bg-overlay3-step2_Mat1.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Sound/Shot.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Sound/action.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Sound/EnemyShot.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Sound/Explosion.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Sound/laser.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Player/BP_Pawn.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Player/ShootingGameMode.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Player/BP_Bullet.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Player/BP_Item.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Material/Item.uasset",
+				"C:/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Material/Monster.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Monster/BP_Monster.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Level/BP_Spawner.uasset",
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/action.uasset",
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/earth.uasset",
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/EnemyShot.uasset",
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Explosion.uasset",
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/laser.uasset",
 				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Shot.uasset",
-				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/starfield-tileable-twitter-bg-overlay3-step2.uasset"
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/starfield-tileable-twitter-bg-overlay3-step2.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/starfield-tileable-twitter-bg-overlay3-step2_Mat1.uasset"
 			]
 		}
 	]

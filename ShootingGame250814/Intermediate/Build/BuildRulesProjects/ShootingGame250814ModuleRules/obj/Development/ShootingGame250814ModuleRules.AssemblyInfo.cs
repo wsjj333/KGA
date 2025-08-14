@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShootingGame250814ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b2d7991afdce5b29d5e6173689fe38a8ed3320")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38ec9d9f26b51eb0d61e7850b9a59d6bcaefd7ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShootingGame250814ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShootingGame250814ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

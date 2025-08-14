@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jeon\\documents\\kga\\shootinggame250814\\intermediate\\build\\win64\\unrealeditor\\inc\\shootinggame250814\\uht\\shootinggame250814.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jeon\\documents\\kga\\shootinggame250814\\intermediate\\build\\win64\\x64\\shootinggame250814editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jeon\\documents\\kga\\shootinggame250814\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\shootinggame250814\\definitions.shootinggame250814.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
