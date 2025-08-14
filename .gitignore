@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+*.pdb
+*.ushaderbytecode
+*.ucas
+*.utoc
+*.pak
+Saved/Cooked/
+Saved/StagedBuilds/
+Content/ShaderArchive*

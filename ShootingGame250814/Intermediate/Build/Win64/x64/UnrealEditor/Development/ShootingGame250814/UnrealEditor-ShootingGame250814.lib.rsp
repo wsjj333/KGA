@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShootingGame250814.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\ShootingGame250814Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShootingGame250814\ShootingGame250814.init.gen.cpp.obj"
+"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShootingGame250814\ShootingGameMode.gen.cpp.obj"
+"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShootingGame250814\ShootingGame250814.cpp.obj"
+"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShootingGame250814\ShootingGameMode.cpp.obj"
+"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShootingGame250814\Default.rc2.res"
+/OUT:"C:\Users\Jeon\Documents\KGA\ShootingGame250814\Intermediate\Build\Win64\x64\UnrealEditor\Development\ShootingGame250814\UnrealEditor-ShootingGame250814.lib"
