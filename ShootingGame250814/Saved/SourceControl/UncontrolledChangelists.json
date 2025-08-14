@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/Level/ShootingGameMap.umap",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/action.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/earth.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/EnemyShot.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Explosion.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/laser.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/Shot.uasset",
+				"C:/Users/Jeon/Documents/KGA/ShootingGame250814/Content/ShootingSource/starfield-tileable-twitter-bg-overlay3-step2.uasset"
+			]
+		}
+	]
+}
