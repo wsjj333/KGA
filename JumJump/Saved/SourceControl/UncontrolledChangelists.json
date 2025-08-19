@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jeon/Documents/KGA/JumJump/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6W/17JR2PRYGC07IU1X9AA7BL.uasset",
+				"C:/Users/Jeon/Documents/KGA/JumJump/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/Jeon/Documents/KGA/JumJump/Content/ThirdPerson/Blueprints/BP_MovingPlatform.uasset",
+				"C:/Users/Jeon/Documents/KGA/JumJump/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AB/V6G95HW8MEDTFQGJ316S1P.uasset",
+				"C:/Users/Jeon/Documents/KGA/JumJump/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/VW/9B3UB124C3SUN0WDQ24B1C.uasset",
+				"C:/Users/Jeon/Documents/KGA/JumJump/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

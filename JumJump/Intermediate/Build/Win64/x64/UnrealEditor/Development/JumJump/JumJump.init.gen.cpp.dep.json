@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jeon\\documents\\kga\\jumjump\\intermediate\\build\\win64\\unrealeditor\\inc\\jumjump\\uht\\jumjump.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jeon\\documents\\kga\\jumjump\\intermediate\\build\\win64\\x64\\jumjumpeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jeon\\documents\\kga\\jumjump\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\jumjump\\definitions.jumjump.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
