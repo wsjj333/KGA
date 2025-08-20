@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JumJumpModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+903b705c38632a7c382e932c7715ec2cae2312a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761e0cc7dabad05b578321dd3998ab49fb3c2435")]
 [assembly: System.Reflection.AssemblyProductAttribute("JumJumpModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JumJumpModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

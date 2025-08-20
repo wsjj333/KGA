@@ -57,6 +57,12 @@
     <Filter Include="Source\JumJump\Private">
       <UniqueIdentifier>{C8365EB6-9342-3CD0-A34B-83DE328EA8A1}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\JumJump\Private\Grabber.cpp">
+      <Filter>Source\JumJump\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JumJump\Private\Grabber.h">
+      <Filter>Source\JumJump\Private</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\JumJump\Private\MovingPlatform1.cpp">
       <Filter>Source\JumJump\Private</Filter>
     </ClCompile>
